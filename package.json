@@ -3,15 +3,15 @@
   "version": "0.2.5",
   "description": "A sample Node.js app using Express 4",
   "engines": {
-    "node": "5.9.1"
+    "node": ">=18.0.0"
   },
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "ejs": "3.1.10",
-    "express": "4.19.2"
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
   },
   "repository": {
     "type": "git",
